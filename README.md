@@ -17,16 +17,16 @@
  
  
 
-##Question ##
+## Question
 
 
  
  
 
-##Hypotheis ##
+## Hypotheis
 
 
 
 
 
-##Methodology ##
+## Methodology

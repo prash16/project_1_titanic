@@ -1,2 +1,3 @@
-# project_1_titanic
-Exploring titanic data set 
+# test_project
+## by Nada Salem
+### 2016
